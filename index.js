@@ -1,1 +1,1 @@
-module.exports = 'super beta'
+module.exports = 'super new beta'
