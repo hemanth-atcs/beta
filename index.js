@@ -1,1 +1,1 @@
-module.exports = 'iam beta '
+module.exports = 'iam beta'
